@@ -1,0 +1,23 @@
+/* This program uses a substitution cipher to encrypt and decrypt messages
+*  Sooooo I actually modified the assignment and decided to implement a One-time Pad algorithm
+*  as a more advanced substitution cipher.
+*  COSC-1437 Fundamentals of Programming II
+*  Professor: Richard Herschede
+*  Student: Brian Terry
+*  Date: 9/13/19
+*/
+
+#include <iostream>
+
+
+//Function Prototypes
+void display(int output, string message = "");
+throwDart();
+getAngle();
+getDistance();
+getScore();
+
+int main() {
+	
+	return 0;
+}
